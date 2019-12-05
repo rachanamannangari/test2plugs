@@ -1,0 +1,12 @@
+com\test2plugs\utilities\Readconfig.class
+com\test2plugs\testcases\Tc_004_signupDDT.class
+com\test2plugs\testcases\Tc_001_login.class
+com\test2plugs\testcases\Tc_003_signup.class
+com\test2plugs\utilities\Listener.class
+com\test2plugs\pageobjects\Addservicepage.class
+com\test2plugs\utilities\XLutils.class
+com\test2plugs\pageobjects\Signuppage.class
+com\test2plugs\testcases\Tc_002_loginDDT.class
+com\test2plugs\testcases\Baseclass.class
+com\test2plugs\testcases\Tc_005_addservice.class
+com\test2plugs\pageobjects\Loginpage.class

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test2plug">
+<listeners>
+
+<listener class-name="com.test2plugs.utilities.Listener"></listener> </listeners>
+
+<test name="crossbrowser1" >
+<parameter name="browser" value="chrome"></parameter>
+<classes>
+
+<class name="com.test2plugs.testcases.Tc_001_login"/>
+<class name="com.test2plugs.testcases.Tc_002_loginDDT"/>
+<!--   <class name="com.test2plugs.testcases.Tc_003_signup" />!-->
+<!--  <class name="com.test2plugs.testcases.Tc_004_signupDDT" />!-->
+<class name="com.test2plugs.testcases.Tc_005_addservice" />
+</classes>
+
+
+
+</test>
+
+
+<test name="crossbrowser2" >
+<parameter name="browser" value="firefox"></parameter>
+<classes>
+
+<!--<class name="com.test2plugs.testcases.Tc_001_login"/>!-->
+
+</classes>
+
+
+
+</test>
+
+
+</suite>

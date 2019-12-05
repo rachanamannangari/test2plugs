@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test2plug" duration-ms="105588" started-at="2019-12-04T17:56:00Z" finished-at="2019-12-04T17:57:45Z">
+    <groups>
+    </groups>
+    <test name="crossbrowser1" duration-ms="105041" started-at="2019-12-04T17:56:00Z" finished-at="2019-12-04T17:57:45Z">
+      <class name="com.test2plugs.testcases.Tc_002_loginDDT">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="setup" is-config="true" duration-ms="2675" started-at="2019-12-04T17:56:19Z" finished-at="2019-12-04T17:56:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="7481" started-at="2019-12-04T17:56:23Z" data-provider="logindata" finished-at="2019-12-04T17:56:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[polaris1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test2plug]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserdata -->
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6095" started-at="2019-12-04T17:56:31Z" data-provider="logindata" finished-at="2019-12-04T17:56:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test2plug]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserdata -->
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6530" started-at="2019-12-04T17:56:37Z" data-provider="logindata" finished-at="2019-12-04T17:56:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[polaris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserdata -->
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6062" started-at="2019-12-04T17:56:43Z" data-provider="logindata" finished-at="2019-12-04T17:56:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asd@2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aa12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserdata -->
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6049" started-at="2019-12-04T17:56:49Z" data-provider="logindata" finished-at="2019-12-04T17:56:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserdata -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="closeBrowser" is-config="true" duration-ms="796" started-at="2019-12-04T17:56:55Z" finished-at="2019-12-04T17:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test2plugs.testcases.Tc_002_loginDDT -->
+      <class name="com.test2plugs.testcases.Tc_005_addservice">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="setup" is-config="true" duration-ms="2570" started-at="2019-12-04T17:56:56Z" finished-at="2019-12-04T17:56:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addService()[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="addService" duration-ms="44681" started-at="2019-12-04T17:56:59Z" finished-at="2019-12-04T17:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addService -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="closeBrowser" is-config="true" duration-ms="1227" started-at="2019-12-04T17:57:43Z" finished-at="2019-12-04T17:57:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test2plugs.testcases.Tc_005_addservice -->
+      <class name="com.test2plugs.testcases.Tc_001_login">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="setup" is-config="true" duration-ms="8334" started-at="2019-12-04T17:56:00Z" finished-at="2019-12-04T17:56:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginUser()[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="loginUser" duration-ms="9898" started-at="2019-12-04T17:56:08Z" finished-at="2019-12-04T17:56:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="closeBrowser" is-config="true" duration-ms="858" started-at="2019-12-04T17:56:18Z" finished-at="2019-12-04T17:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test2plugs.testcases.Tc_001_login -->
+    </test> <!-- crossbrowser1 -->
+    <test name="crossbrowser2" duration-ms="9" started-at="2019-12-04T17:57:45Z" finished-at="2019-12-04T17:57:45Z">
+    </test> <!-- crossbrowser2 -->
+  </suite> <!-- test2plug -->
+</testng-results>
