@@ -942,3 +942,31 @@
 2019-12-04 14:00:46,810 - test2plug -INFO - enter the username
 2019-12-04 14:00:46,937 - test2plug -INFO - enter the password
 2019-12-04 14:01:30,855 - test2plug -INFO - service creation is failed
+2019-12-05 13:21:33,830 - test2plug -INFO - open the webpage
+2019-12-05 13:21:34,055 - test2plug -INFO - enter the username
+2019-12-05 13:21:34,201 - test2plug -INFO - enter the password
+2019-12-05 13:21:40,481 - test2plug -INFO - testcase is passed
+2019-12-05 13:21:50,741 - test2plug -INFO - open the webpage
+2019-12-05 13:21:50,868 - test2plug -INFO - enter the username
+2019-12-05 13:21:50,992 - test2plug -INFO - enter the password
+2019-12-05 13:21:56,511 - test2plug -INFO - testcase is failed
+2019-12-05 13:21:56,877 - test2plug -INFO - open the webpage
+2019-12-05 13:21:56,971 - test2plug -INFO - enter the username
+2019-12-05 13:21:57,096 - test2plug -INFO - enter the password
+2019-12-05 13:22:02,604 - test2plug -INFO - testcase is failed
+2019-12-05 13:22:03,002 - test2plug -INFO - open the webpage
+2019-12-05 13:22:03,101 - test2plug -INFO - enter the username
+2019-12-05 13:22:03,203 - test2plug -INFO - enter the password
+2019-12-05 13:22:08,765 - test2plug -INFO - testcase is failed
+2019-12-05 13:22:09,088 - test2plug -INFO - open the webpage
+2019-12-05 13:22:09,180 - test2plug -INFO - enter the username
+2019-12-05 13:22:09,290 - test2plug -INFO - enter the password
+2019-12-05 13:22:14,942 - test2plug -INFO - testcase is failed
+2019-12-05 13:22:15,391 - test2plug -INFO - open the webpage
+2019-12-05 13:22:15,457 - test2plug -INFO - enter the username
+2019-12-05 13:22:15,531 - test2plug -INFO - enter the password
+2019-12-05 13:22:20,974 - test2plug -INFO - testcase is failed
+2019-12-05 13:22:26,002 - test2plug -INFO - open the webpage
+2019-12-05 13:22:26,134 - test2plug -INFO - enter the username
+2019-12-05 13:22:26,246 - test2plug -INFO - enter the password
+2019-12-05 13:23:09,295 - test2plug -INFO - service creation is failed

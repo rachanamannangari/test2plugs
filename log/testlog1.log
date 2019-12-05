@@ -942,3 +942,31 @@
 2019-12-04 14:00:46,810 [main] INFO test2plug - enter the username
 2019-12-04 14:00:46,937 [main] INFO test2plug - enter the password
 2019-12-04 14:01:30,855 [main] INFO test2plug - service creation is failed
+2019-12-05 13:21:33,830 [main] INFO test2plug - open the webpage
+2019-12-05 13:21:34,055 [main] INFO test2plug - enter the username
+2019-12-05 13:21:34,201 [main] INFO test2plug - enter the password
+2019-12-05 13:21:40,481 [main] INFO test2plug - testcase is passed
+2019-12-05 13:21:50,741 [main] INFO test2plug - open the webpage
+2019-12-05 13:21:50,868 [main] INFO test2plug - enter the username
+2019-12-05 13:21:50,992 [main] INFO test2plug - enter the password
+2019-12-05 13:21:56,511 [main] INFO test2plug - testcase is failed
+2019-12-05 13:21:56,877 [main] INFO test2plug - open the webpage
+2019-12-05 13:21:56,971 [main] INFO test2plug - enter the username
+2019-12-05 13:21:57,096 [main] INFO test2plug - enter the password
+2019-12-05 13:22:02,604 [main] INFO test2plug - testcase is failed
+2019-12-05 13:22:03,002 [main] INFO test2plug - open the webpage
+2019-12-05 13:22:03,101 [main] INFO test2plug - enter the username
+2019-12-05 13:22:03,203 [main] INFO test2plug - enter the password
+2019-12-05 13:22:08,765 [main] INFO test2plug - testcase is failed
+2019-12-05 13:22:09,088 [main] INFO test2plug - open the webpage
+2019-12-05 13:22:09,180 [main] INFO test2plug - enter the username
+2019-12-05 13:22:09,290 [main] INFO test2plug - enter the password
+2019-12-05 13:22:14,942 [main] INFO test2plug - testcase is failed
+2019-12-05 13:22:15,391 [main] INFO test2plug - open the webpage
+2019-12-05 13:22:15,457 [main] INFO test2plug - enter the username
+2019-12-05 13:22:15,531 [main] INFO test2plug - enter the password
+2019-12-05 13:22:20,974 [main] INFO test2plug - testcase is failed
+2019-12-05 13:22:26,002 [main] INFO test2plug - open the webpage
+2019-12-05 13:22:26,134 [main] INFO test2plug - enter the username
+2019-12-05 13:22:26,246 [main] INFO test2plug - enter the password
+2019-12-05 13:23:09,295 [main] INFO test2plug - service creation is failed

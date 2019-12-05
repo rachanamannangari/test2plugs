@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="test2plug" duration-ms="105588" started-at="2019-12-04T17:56:00Z" finished-at="2019-12-04T17:57:45Z">
+  <suite name="test2plug" duration-ms="104490" started-at="2019-12-05T18:21:26Z" finished-at="2019-12-05T18:23:11Z">
     <groups>
     </groups>
-    <test name="crossbrowser1" duration-ms="105041" started-at="2019-12-04T17:56:00Z" finished-at="2019-12-04T17:57:45Z">
+    <test name="crossbrowser1" duration-ms="103891" started-at="2019-12-05T18:21:26Z" finished-at="2019-12-05T18:23:10Z">
       <class name="com.test2plugs.testcases.Tc_002_loginDDT">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="setup" is-config="true" duration-ms="2675" started-at="2019-12-04T17:56:19Z" finished-at="2019-12-04T17:56:22Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="setup" is-config="true" duration-ms="5048" started-at="2019-12-05T18:21:42Z" finished-at="2019-12-05T18:21:47Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="7481" started-at="2019-12-04T17:56:23Z" data-provider="logindata" finished-at="2019-12-04T17:56:31Z">
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="7520" started-at="2019-12-05T18:21:48Z" data-provider="logindata" finished-at="2019-12-05T18:21:56Z">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUserdata -->
-        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6095" started-at="2019-12-04T17:56:31Z" data-provider="logindata" finished-at="2019-12-04T17:56:37Z">
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6091" started-at="2019-12-05T18:21:56Z" data-provider="logindata" finished-at="2019-12-05T18:22:02Z">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUserdata -->
-        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6530" started-at="2019-12-04T17:56:37Z" data-provider="logindata" finished-at="2019-12-04T17:56:43Z">
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6163" started-at="2019-12-05T18:22:02Z" data-provider="logindata" finished-at="2019-12-05T18:22:08Z">
           <params>
             <param index="0">
               <value>
@@ -66,7 +66,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUserdata -->
-        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6062" started-at="2019-12-04T17:56:43Z" data-provider="logindata" finished-at="2019-12-04T17:56:49Z">
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6168" started-at="2019-12-05T18:22:08Z" data-provider="logindata" finished-at="2019-12-05T18:22:14Z">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUserdata -->
-        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6049" started-at="2019-12-04T17:56:49Z" data-provider="logindata" finished-at="2019-12-04T17:56:55Z">
+        <test-method status="PASS" signature="loginUserdata(java.lang.String, java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="loginUserdata" duration-ms="6026" started-at="2019-12-05T18:22:14Z" data-provider="logindata" finished-at="2019-12-05T18:22:20Z">
           <params>
             <param index="0">
               <value>
@@ -98,13 +98,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUserdata -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="closeBrowser" is-config="true" duration-ms="796" started-at="2019-12-04T17:56:55Z" finished-at="2019-12-04T17:56:56Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_002_loginDDT@4f7d0008]" name="closeBrowser" is-config="true" duration-ms="829" started-at="2019-12-05T18:22:20Z" finished-at="2019-12-05T18:22:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.test2plugs.testcases.Tc_002_loginDDT -->
       <class name="com.test2plugs.testcases.Tc_005_addservice">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="setup" is-config="true" duration-ms="2570" started-at="2019-12-04T17:56:56Z" finished-at="2019-12-04T17:56:59Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="setup" is-config="true" duration-ms="2679" started-at="2019-12-05T18:22:21Z" finished-at="2019-12-05T18:22:24Z">
           <params>
             <param index="0">
               <value>
@@ -115,17 +115,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="addService()[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="addService" duration-ms="44681" started-at="2019-12-04T17:56:59Z" finished-at="2019-12-04T17:57:43Z">
+        <test-method status="PASS" signature="addService()[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="addService" duration-ms="44808" started-at="2019-12-05T18:22:24Z" finished-at="2019-12-05T18:23:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addService -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="closeBrowser" is-config="true" duration-ms="1227" started-at="2019-12-04T17:57:43Z" finished-at="2019-12-04T17:57:45Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_005_addservice@271053e1]" name="closeBrowser" is-config="true" duration-ms="1322" started-at="2019-12-05T18:23:09Z" finished-at="2019-12-05T18:23:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.test2plugs.testcases.Tc_005_addservice -->
       <class name="com.test2plugs.testcases.Tc_001_login">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="setup" is-config="true" duration-ms="8334" started-at="2019-12-04T17:56:00Z" finished-at="2019-12-04T17:56:08Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="setup" is-config="true" duration-ms="5013" started-at="2019-12-05T18:21:27Z" finished-at="2019-12-05T18:21:32Z">
           <params>
             <param index="0">
               <value>
@@ -136,17 +136,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginUser()[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="loginUser" duration-ms="9898" started-at="2019-12-04T17:56:08Z" finished-at="2019-12-04T17:56:18Z">
+        <test-method status="PASS" signature="loginUser()[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="loginUser" duration-ms="9443" started-at="2019-12-05T18:21:32Z" finished-at="2019-12-05T18:21:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUser -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="closeBrowser" is-config="true" duration-ms="858" started-at="2019-12-04T17:56:18Z" finished-at="2019-12-04T17:56:19Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test2plugs.testcases.Tc_001_login@553f17c]" name="closeBrowser" is-config="true" duration-ms="870" started-at="2019-12-05T18:21:41Z" finished-at="2019-12-05T18:21:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.test2plugs.testcases.Tc_001_login -->
     </test> <!-- crossbrowser1 -->
-    <test name="crossbrowser2" duration-ms="9" started-at="2019-12-04T17:57:45Z" finished-at="2019-12-04T17:57:45Z">
+    <test name="crossbrowser2" duration-ms="7" started-at="2019-12-05T18:23:11Z" finished-at="2019-12-05T18:23:11Z">
     </test> <!-- crossbrowser2 -->
   </suite> <!-- test2plug -->
 </testng-results>
